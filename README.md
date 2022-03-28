@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Almeida99
 - 👀 I’m interested in  back-end 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning PHP
 - 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me eltonalmeida.ti@gmail.com
 
